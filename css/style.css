@@ -161,7 +161,7 @@ img {
     text-decoration: none;
     height: 61px;
     width: 38px;
-    background: transparent url(https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210424105938.gif) no-repeat left top;
+    background: transparent url("https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210424105938.gif") no-repeat left top;
     margin-top: -45px;
     display: none
 }
@@ -258,7 +258,7 @@ body {
     font: 12px/20px 'MicrosoftYaHei', '微软雅黑', Tahoma, Verdana;
     word-break: break-word;
     color: #444;
-    background: url(https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210423112535.jpg)
+    background: url("https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210423112535.jpg")
 }
 
 blockquote {
@@ -361,7 +361,7 @@ a:hover {
 #bak_top {
     width: 36px;
     height: 114px;
-    background: url(https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210424110455.png);
+    background: url("https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210424110455.png");
     bottom: 30%;
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -1647,14 +1647,14 @@ span.kcomtime {
     display: none;
     width: 100%;
     height: 45px;
-    background: url(https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210424110253.gif) no-repeat center !important
+    background: url("https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210424110253.gif") no-repeat center !important
 }
 
 /* 页脚 */
 
 .footer {
     display: block;
-    background: url(https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210424110143.png) repeat;
+    background: url("https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210424110143.png") repeat;
     color: #333;
     padding: 20px 20px 0 20px;
     line-height: 24px;
@@ -1844,7 +1844,7 @@ span.kcomtime {
 #related ul li {
     float: left;
     width: 310px;
-    background: url(https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210424110542.png) no-repeat scroll left center transparent;
+    background: url("https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210424110542.png") no-repeat scroll left center transparent;
     padding-left: 20px;
     _display: inline
 }
@@ -2373,7 +2373,7 @@ ul.friendlinks li {
 }
 
 #cboxOverlay {
-    background: url(https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210424110630.png) repeat 0 0
+    background: url("https://cdn.jsdelivr.net/gh/Padavan2019/blog@master/blogimg/20210424110630.png") repeat 0 0
 }
 
 #colorbox {
